@@ -37,6 +37,7 @@ p{
     color:white;
 }
 
+.flex-container {
     text-align: center;
     border: 3px solid green;    
 }
